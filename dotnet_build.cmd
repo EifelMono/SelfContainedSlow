@@ -1,1 +1,0 @@
-dotnet build -c Release -r win-x64 --output ./output/build
