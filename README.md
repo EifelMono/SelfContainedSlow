@@ -23,5 +23,5 @@ Console.ReadLine();
 ![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_22-42-24.gif)
 
 #### mp4
-![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_22-40-35.mp4)
+[Video in better quality](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_22-40-35.mp4)
 
