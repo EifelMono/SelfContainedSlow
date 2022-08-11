@@ -2,7 +2,9 @@
 
 A .NET 6.0 SelfContained singleexe is slow on my computer with the company image, but not on other computers
 
-The program contains nothing
+## Code
+
+The c# program contains nothing
 
 ```csharp
 Console.WriteLine("Hello, World!");
@@ -16,8 +18,9 @@ Console.ReadLine();
 * Execute artifacts\SelfContainedSlow.exe
 
 
-## Video on the company computer when I open the file property dialog or starts the program
+## Result
 
+Video from the company computer when I open the file property dialog or starts the program
 
 #### gif
 ![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_22-42-24.gif)
