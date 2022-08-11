@@ -23,7 +23,7 @@ Console.ReadLine();
 Video from the company computer when I open the file property dialog or starts the program
 
 #### gif
-![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_23-00-25.gif)
+![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_23-00-57.gif)
 
 #### mp4
 [Download video with better quality](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_23-00-25.mp4)
