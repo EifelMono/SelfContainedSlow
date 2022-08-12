@@ -1,1 +1,1 @@
-dotnet publish -c Release -r win-x64 --output ./artifacts --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -p:CopyOutputSymbolsToPublishDirectory=false /p:EnableCompressionInSingleFile=true
+dotnet publish -c Release -r win-x64 --output ./artifacts --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -p:CopyOutputSymbolsToPublishDirectory=false -p:EnableCompressionInSingleFile=true
