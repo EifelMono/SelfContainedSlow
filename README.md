@@ -13,14 +13,14 @@ Console.ReadLine();
 
 
 ```console
-dotnet publish -c Release -r win-x64 --output ./artifacts --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -p:CopyOutputSymbolsToPublishDirectory=false /p:EnableCompressionInSingleFile=true
+dotnet publish -c Release -r win-x64 --output ./artifacts --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=true -p:IncludeAllContentForSelfExtract=true -p:CopyOutputSymbolsToPublishDirectory=false -p:EnableCompressionInSingleFile=true
 
 ```
 
 
 ## How to build
 
-* Clone repository to your computer git clone https://github.com/EifelMono/SelfContainedSlow.git 
+* Dwonload or Clone the repository to your computer "git clone https://github.com/EifelMono/SelfContainedSlow.git" 
 * Download [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.400-windows-x64-installer) and install
 * Run build.cmd
 * Execute artifacts\SelfContainedSlow.exe
