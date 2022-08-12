@@ -1,6 +1,6 @@
 # SelfContainedSlow 
 
-A .NET 6.0 SelfContained singleexe is slow on my computer with the company image, but not on other computers
+Defenders slows down .NET 6.0 SelfContained singleexe files
 
 ## Code
 
@@ -20,7 +20,7 @@ Console.ReadLine();
 
 ## Result
 
-Video from the company computer when I open the file property dialog or starts the program
+Video when I open the file property dialog or starts the program
 
 #### gif
 ![Alt Text](https://github.com/EifelMono/SelfContainedSlow/blob/main/images/2022-08-11_23-00-57.gif)
